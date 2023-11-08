@@ -4,3 +4,4 @@ content details
 Trips Italy,Dubai,Everest,Sweden
 Details:Various features such as filtering, search, likes, distance, weather, price, vacation days
 ![travelapp](https://github.com/SemihParlak/Travel-app/assets/124163896/3886be2e-e654-4638-8303-696645c778b5)
+![travelapp](https://github.com/SemihParlak/Travel-app/assets/124163896/44afa762-fdea-4460-8ee3-fe355e6c5719)
